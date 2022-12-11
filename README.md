@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IamNicoleDenise
-- 👀 I’m interested in All things Cloud
+- 👀 I’m interested in All things Cloud,Data,and Automation
 - 🌱 I’m currently learning Java, AWS, Azure, RPA and Cloud Cost Optimaztion (Finops)
 - 💞️ I’m looking to collaborate on Finops and Cloud projects
 - 📫 How to reach me ---->Follow me on Twitter or Linkedin 
