@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Nicole Coleman
-- 👀 I’m interested in All things AI/ML, Data, Cloud, Automation, and Cloud Finops
-- 🌱 I’m currently learning Python, Machine Learning, AI/ML, and Cloud Cost Optimization (Finops)
-- 💞️ I’m looking to collaborate on AI/ML, Data, Finops, and Cloud projects
-- 📫 How to reach me ---->Follow me on Twitter or Linkedin 
-
+👋 Hi, I'm Nicole 
+🔧 I build automation systems and AI agents that eliminate manual work for growing businesses — starting with the tools they already own (M365, Google Workspace, AWS).
+🚀 Founder of 3509 Innovations
+🌱 Currently going deep on: Python for automation, Claude API, and AI agent development
+💞️ Open to collaborating on AI automation, Claude API builds, FinOps tooling, and SMB operational systems
+📫 Find me: linkedin.com/in/nicolecoleman | iamnicolecoleman.com
 <!---
 IamNicoleDenise/IamNicoleDenise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
