@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicoledcoleman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://iamnicolecoleman.com"><img src="https://img.shields.io/badge/Portfolio-iamnicolecoleman.com-A78BFA?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge" alt="Credly"/></a>
+  <a href="https://www.linkedin.com/in/nicoledcoleman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-67E8F9?style=for-the-badge&labelColor=1E1446" alt="LinkedIn"/></a>
+  <a href="https://iamnicolecoleman.com"><img src="https://img.shields.io/badge/Portfolio-iamnicolecoleman.com-A78BFA?style=for-the-badge&labelColor=1E1446" alt="Portfolio"/></a>
+  <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://img.shields.io/badge/Credly-Verified_Badges-818CF8?style=for-the-badge&labelColor=1E1446" alt="Credly"/></a>
   <br/>
-  <a href="https://youtube.com/@techwithnicole"><img src="https://img.shields.io/badge/YouTube-Behind_the_Build-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.linkedin.com/newsletters/7456564012672110592/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-67E8F9?style=for-the-badge" alt="Newsletter"/></a>
+  <a href="https://youtube.com/@techwithnicole"><img src="https://img.shields.io/badge/YouTube-Behind_the_Build-F472B6?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1446" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/newsletters/7456564012672110592/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-E879F9?style=for-the-badge&labelColor=1E1446" alt="Newsletter"/></a>
 </p>
 
 ### 👋 Who I am
