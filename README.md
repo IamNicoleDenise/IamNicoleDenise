@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/nicoledcoleman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://iamnicolecoleman.com"><img src="https://img.shields.io/badge/Portfolio-iamnicolecoleman.com-A78BFA?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge" alt="Credly"/></a>
+  <br/>
+  <a href="https://youtube.com/@techwithnicole"><img src="https://img.shields.io/badge/YouTube-@techwithnicole-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7456564012672110592"><img src="https://img.shields.io/badge/Newsletter-Subscribe-67E8F9?style=for-the-badge" alt="Newsletter"/></a>
 </p>
 
 ### 👋 Who I am
@@ -49,12 +52,12 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
 ### 🏅 Certifications
 
 <p>
-  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
   <a href="https://www.credly.com/badges/77ad7c8b-8780-4d2d-8e30-3ad3b4153402/public_url"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="90" alt="Google Cloud Generative AI Leader"/></a>
   <a href="https://www.credly.com/badges/ff5b457a-71be-4cc3-9547-a8750f86e07f/public_url"><img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="90" alt="Google Cloud Digital Leader"/></a>
   <a href="https://www.credly.com/badges/f7f18fc5-6db2-49eb-b031-b8518d0e7168/public_url"><img src="https://images.credly.com/images/146f00a7-53ff-49e6-a6ce-079aa820b29c/blob" width="90" alt="FinOps Certified: AI Value"/></a>
   <a href="https://www.credly.com/badges/bbd29042-1865-4fc0-94ff-196068488ab5/public_url"><img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="90" alt="FinOps Certified Practitioner"/></a>
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
 </p>
 
 **AWS Community Builder** (AI Engineering) · Postman API Expert · **Next up:** Microsoft PL-900 → PL-400
