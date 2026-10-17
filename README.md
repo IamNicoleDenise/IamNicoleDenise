@@ -8,30 +8,37 @@
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge" alt="Credly"/></a>
 </p>
 
-### What I build
+### 👋 Who I am
 
-I turn manual, inbox-and-spreadsheet processes into systems that run themselves, built on the tools a business already owns.
+I'm a systems builder. I find the process that's quietly eating a team's week, design the fix, and build enough of it to prove the value.
 
-- **Automation:** Power Automate flows, SharePoint, Dataverse, and Teams Adaptive Cards
-- **AI:** Claude API and Copilot Studio agents that score, summarize, and route work, with a human making the call
-- **Data:** Python, SQL, and REST APIs to move and shape data where it needs to go
+I've been building on Microsoft Power Platform since 2019, spent two years inside AWS cloud billing, and hold a Master of Public Administration focused on program evaluation. That mix means I think about the people and the process first, then the tech. I'm also the founder of **3509 Innovations**, where I build automation for small and mid-size businesses.
 
-### Toolbox
+### 🔧 What I build
 
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0F6CBD?style=flat-square)
-![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=flat-square)
-![SharePoint](https://img.shields.io/badge/SharePoint-036C70?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square)
+| The problem | What I build |
+|---|---|
+| Leads and requests arrive by email and sit unread | Intake forms that log every request, score it with AI, and route it to the right person in Teams |
+| Approvals live in inboxes and nobody knows the status | Ticket workflows with Adaptive Card approvals, status tracking, and a single list of record |
+| Data has to be copied between systems by hand | API pipelines that pull data into SharePoint or Excel on a schedule and survive schema changes |
+| Costs or numbers spike and no one notices until month end | Monitoring with automatic alerts, forecasting, and dashboards people actually read |
+| The same questions get asked over and over | Copilot Studio and Claude agents grounded in a team's own documents |
 
-### Certifications
+Every build keeps a human in the loop: AI drafts, scores, and suggests; people decide.
+
+### 🧰 Stack
+
+<p align="center">
+  <img src="./stack.svg" alt="Tech stack: Power Automate, SharePoint, Teams, Power BI, Office Scripts, Python, SQL, REST APIs, AWS, Claude API, Power Apps, Copilot Studio, Excel, Google Cloud, OpenAI" width="100%"/>
+</p>
+
+### 🎯 Where I'm headed
+
+Turning the patterns above into repeatable **3509 Innovations** offers, so growing teams get enterprise-grade automation without an enterprise IT department. Next on the build list: Dataverse, model-driven apps, and Copilot Studio agents with proper ALM.
+
+Open to contract builds and collaborations on Power Platform, Copilot Studio, and Claude API projects.
+
+### 🏅 Certifications
 
 <p>
   <a href="https://www.credly.com/badges/77ad7c8b-8780-4d2d-8e30-3ad3b4153402/public_url"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="90" alt="Google Cloud Generative AI Leader"/></a>
