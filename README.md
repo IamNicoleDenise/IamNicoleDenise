@@ -43,7 +43,7 @@ Every build keeps a human in the loop: AI drafts, scores, and suggests; people d
 
 I document builds on YouTube so you can see how the systems come together.
 
-<a href="https://youtu.be/Nboa2k5Axew"><img src="https://img.youtube.com/vi/Nboa2k5Axew/hqdefault.jpg" width="360" alt="I Built an AI Stylist with ChatGPT — Try It Yourself!"/></a>
+<a href="https://youtu.be/Nboa2k5Axew"><img src="https://img.youtube.com/vi/Nboa2k5Axew/mqdefault.jpg" width="360" alt="I Built an AI Stylist with ChatGPT — Try It Yourself!"/></a>
 
 **Latest:** [I Built an AI Stylist with ChatGPT — Try It Yourself!](https://youtu.be/Nboa2k5Axew)
 
