@@ -7,8 +7,8 @@
   <a href="https://iamnicolecoleman.com"><img src="https://img.shields.io/badge/Portfolio-iamnicolecoleman.com-A78BFA?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge" alt="Credly"/></a>
   <br/>
-  <a href="https://youtube.com/@techwithnicole"><img src="https://img.shields.io/badge/YouTube-@techwithnicole-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7456564012672110592"><img src="https://img.shields.io/badge/Newsletter-Subscribe-67E8F9?style=for-the-badge" alt="Newsletter"/></a>
+  <a href="https://youtube.com/@techwithnicole"><img src="https://img.shields.io/badge/YouTube-Behind_the_Build-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/newsletters/7456564012672110592/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-67E8F9?style=for-the-badge" alt="Newsletter"/></a>
 </p>
 
 ### 👋 Who I am
@@ -38,6 +38,14 @@ Every build keeps a human in the loop: AI drafts, scores, and suggests; people d
 <p align="center">
   <img src="./stack.svg" alt="Tech stack: Power Automate, SharePoint, Teams, Power BI, Office Scripts, Python, SQL, REST APIs, AWS, Claude API, Power Apps, Copilot Studio, Excel, Google Cloud, OpenAI" width="100%"/>
 </p>
+
+### 📺 Behind the Build
+
+I document builds on YouTube so you can see how the systems come together.
+
+<a href="https://youtu.be/Nboa2k5Axew"><img src="https://img.youtube.com/vi/Nboa2k5Axew/hqdefault.jpg" width="360" alt="I Built an AI Stylist with ChatGPT — Try It Yourself!"/></a>
+
+**Latest:** [I Built an AI Stylist with ChatGPT — Try It Yourself!](https://youtu.be/Nboa2k5Axew)
 
 ### 🎯 Where I'm headed
 
