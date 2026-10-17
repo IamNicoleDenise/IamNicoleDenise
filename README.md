@@ -10,9 +10,13 @@
 
 ### 👋 Who I am
 
-I'm a systems builder. I find the process that's quietly eating a team's week, design the fix, and build enough of it to prove the value.
+Every team has that one process. The spreadsheet someone updates by hand every Monday. The approval stuck in somebody's inbox. The request that got answered three days late because nobody saw it come in.
 
-I've been building on Microsoft Power Platform since 2019, spent two years inside AWS cloud billing, and hold a Master of Public Administration focused on program evaluation. That mix means I think about the people and the process first, then the tech. I'm also the founder of **3509 Innovations**, where I build automation for small and mid-size businesses.
+**I'm the person who finds it, maps it, and builds the system that makes it disappear.**
+
+I've been building on Microsoft Power Platform since 2019. Along the way I've worked in enterprise IT, spent two years in AWS cloud billing turning messy cost data into answers, and became the go-to person on my teams for turning "we do this manually" into "this runs itself." A design background makes me care how a tool looks and feels. A Master of Public Administration taught me to ask whether a system actually works for the people using it.
+
+Today I build with AI in the loop: Power Platform for the plumbing, Copilot Studio and the Claude API for the thinking, and a human always making the final call.
 
 ### 🔧 What I build
 
@@ -36,7 +40,11 @@ Every build keeps a human in the loop: AI drafts, scores, and suggests; people d
 
 Turning the patterns above into repeatable **3509 Innovations** offers, so growing teams get enterprise-grade automation without an enterprise IT department. Next on the build list: Dataverse, model-driven apps, and Copilot Studio agents with proper ALM.
 
-Open to contract builds and collaborations on Power Platform, Copilot Studio, and Claude API projects.
+### 🤝 Work with me
+
+**Hiring?** I'm open to **Power Platform Developer**, **Solutions Engineer**, and **Business Systems Engineer** roles (remote). [Let's talk on LinkedIn →](https://www.linkedin.com/in/nicoledcoleman/)
+
+**Need a build?** 3509 Innovations takes on contract automation projects: intake, approvals, data pipelines, and AI agents. [See my work →](https://iamnicolecoleman.com)
 
 ### 🏅 Certifications
 
