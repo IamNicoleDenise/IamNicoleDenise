@@ -49,6 +49,7 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
 ### 🏅 Certifications
 
 <p>
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
   <a href="https://www.credly.com/badges/77ad7c8b-8780-4d2d-8e30-3ad3b4153402/public_url"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="90" alt="Google Cloud Generative AI Leader"/></a>
   <a href="https://www.credly.com/badges/ff5b457a-71be-4cc3-9547-a8750f86e07f/public_url"><img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="90" alt="Google Cloud Digital Leader"/></a>
   <a href="https://www.credly.com/badges/f7f18fc5-6db2-49eb-b031-b8518d0e7168/public_url"><img src="https://images.credly.com/images/146f00a7-53ff-49e6-a6ce-079aa820b29c/blob" width="90" alt="FinOps Certified: AI Value"/></a>
@@ -56,4 +57,4 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
 </p>
 
-AWS Community Builder · Postman API Expert · **Next up:** Microsoft PL-900 → PL-400
+**AWS Community Builder** (AI Engineering) · Postman API Expert · **Next up:** Microsoft PL-900 → PL-400
