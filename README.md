@@ -72,7 +72,7 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
 ### 🎖️ Badges & community
 
 <p>
-  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
+  <a href="https://builder.aws.com/community/@ncolecol?tab=badges"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
   <a href="https://globalai.community/badges/19aafc71-446c-418d-ac24-3aadeeb93a09"><img src="https://globalai.community/img/badge/shared/3844ac0e63382c107a094b55972f10ef2b38ef7e1db2a271b7b3d981e7d1af21.png" width="90" alt="Agent Academy: Recruit NextGen"/></a>
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
 </p>
