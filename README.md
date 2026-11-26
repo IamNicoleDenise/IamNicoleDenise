@@ -66,6 +66,7 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
   <a href="https://www.credly.com/badges/bbd29042-1865-4fc0-94ff-196068488ab5/public_url"><img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="90" alt="FinOps Certified Practitioner"/></a>
   <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
   <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/nicolecoleman-3956/credentials/34a00c67c3cca39c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="Microsoft Certified: Power Platform Fundamentals"/></a>
 </p>
 
-**AWS Community Builder** (AI Engineering) · Postman API Expert · **Next up:** Microsoft PL-900 → PL-400
+**AWS Community Builder** (AI Engineering) · Postman API Expert · **Next up:** Microsoft PL-400
