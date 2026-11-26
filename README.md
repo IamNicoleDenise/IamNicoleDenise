@@ -64,9 +64,17 @@ Turning the patterns above into repeatable **3509 Innovations** offers, so growi
   <a href="https://www.credly.com/badges/ff5b457a-71be-4cc3-9547-a8750f86e07f/public_url"><img src="https://images.credly.com/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" width="90" alt="Google Cloud Digital Leader"/></a>
   <a href="https://www.credly.com/badges/f7f18fc5-6db2-49eb-b031-b8518d0e7168/public_url"><img src="https://images.credly.com/images/146f00a7-53ff-49e6-a6ce-079aa820b29c/blob" width="90" alt="FinOps Certified: AI Value"/></a>
   <a href="https://www.credly.com/badges/bbd29042-1865-4fc0-94ff-196068488ab5/public_url"><img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="90" alt="FinOps Certified Practitioner"/></a>
-  <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
-  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
   <a href="https://learn.microsoft.com/en-us/users/nicolecoleman-3956/credentials/34a00c67c3cca39c"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="90" alt="Microsoft Certified: Power Platform Fundamentals"/></a>
 </p>
 
-**AWS Community Builder** (AI Engineering) · Postman API Expert · **Next up:** Microsoft PL-400
+**Next up:** Microsoft PL-400
+
+### 🎖️ Badges & community
+
+<p>
+  <a href="https://aws.amazon.com/developer/community/community-builders/"><img src="./aws-community-builder.png" width="90" alt="AWS Community Builder, AI Engineering"/></a>
+  <a href="https://globalai.community/badges/19aafc71-446c-418d-ac24-3aadeeb93a09"><img src="https://globalai.community/img/badge/shared/3844ac0e63382c107a094b55972f10ef2b38ef7e1db2a271b7b3d981e7d1af21.png" width="90" alt="Agent Academy: Recruit NextGen"/></a>
+  <a href="https://www.credly.com/users/nicole-coleman.bd35065e"><img src="https://images.credly.com/images/16aff7e1-675a-4ee9-b569-6cb00a7e53de/image.png" width="90" alt="Make Intermediate"/></a>
+</p>
+
+**AWS Community Builder** (AI Engineering) · Postman API Expert · [See all badges on Credly →](https://www.credly.com/users/nicole-coleman.bd35065e)
